@@ -41,6 +41,7 @@ var (
 	FindNetworkACLByIDV2                      = findNetworkACLByIDV2
 	FindNetworkInterfaceByIDV2                = findNetworkInterfaceByIDV2
 	FindVolumeAttachmentInstanceByID          = findVolumeAttachmentInstanceByID
+	FindVPCEndpointByIDV2                     = findVPCEndpointByIDV2
 	FlattenNetworkInterfacePrivateIPAddresses = flattenNetworkInterfacePrivateIPAddresses
 	NewAttributeFilterList                    = newAttributeFilterList
 	NewAttributeFilterListV2                  = newAttributeFilterListV2
